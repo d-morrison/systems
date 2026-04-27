@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "chapters/*.qmd"
+    - "chapters/meadows-2001/*.qmd"
     - "!README.md"
     - "!appendix-document-metadata.qmd"
     - "!references.qmd"
@@ -25,8 +26,39 @@ website:
         href: index.qmd
       - text: "Lectures"
         menu:
-          - text: "Meadows (2001): Dancing with Systems"
+          - text: "Meadows (2001): Overview"
             href: chapters/meadows-2001.qmd
+          - section: "Meadows (2001): The Fifteen Principles"
+          - text: "1. Get the Beat of the System"
+            href: chapters/meadows-2001/01-get-the-beat.qmd
+          - text: "2. Expose Your Mental Models"
+            href: chapters/meadows-2001/02-mental-models.qmd
+          - text: "3. Honor, Respect, and Distribute Information"
+            href: chapters/meadows-2001/03-honor-information.qmd
+          - text: "4. Use Language with Care"
+            href: chapters/meadows-2001/04-use-language.qmd
+          - text: "5. Pay Attention to What Is Important"
+            href: chapters/meadows-2001/05-what-is-important.qmd
+          - text: "6. Make Feedback Policies for Feedback Systems"
+            href: chapters/meadows-2001/06-feedback-policies.qmd
+          - text: "7. Go for the Good of the Whole"
+            href: chapters/meadows-2001/07-good-of-whole.qmd
+          - text: "8. Listen to the Wisdom of the System"
+            href: chapters/meadows-2001/08-wisdom-of-system.qmd
+          - text: "9. Locate Responsibility in the System"
+            href: chapters/meadows-2001/09-locate-responsibility.qmd
+          - text: "10. Stay Humble — Stay a Learner"
+            href: chapters/meadows-2001/10-stay-humble.qmd
+          - text: "11. Celebrate Complexity"
+            href: chapters/meadows-2001/11-celebrate-complexity.qmd
+          - text: "12. Expand Time Horizons"
+            href: chapters/meadows-2001/12-expand-time.qmd
+          - text: "13. Defy the Disciplines"
+            href: chapters/meadows-2001/13-defy-discipline.qmd
+          - text: "14. Expand the Boundary of Caring"
+            href: chapters/meadows-2001/14-expand-caring.qmd
+          - text: "15. Don't Erode the Goal of Goodness"
+            href: chapters/meadows-2001/15-goal-of-goodness.qmd
     right:
       - icon: github
         href: https://github.com/d-morrison/systems

@@ -1,0 +1,200 @@
+---
+title: "14. Expand the Boundary of Caring"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 14-expand-caring-slides.html
+  pdf:
+    output-file: 14-expand-caring-handout.pdf
+  docx:
+    output-file: 14-expand-caring.docx
+---
+
+# Expand the Boundary of Caring
+
+*Principle 14 from @meadows2001*
+
+> Our caring has to encompass all parts of the system, including parts
+> that are distant in time and space. Everything I do now affects
+> systems far away and far in the future. Expand the boundary of your
+> concern to include all who live in the system.
+
+## The Principle
+
+Every system analysis begins with a choice about boundaries: What is
+inside the system? What is outside? Where does the system end and its
+environment begin?
+
+This choice is not neutral. It determines:
+
+- Whose interests are represented in the analysis
+- Which feedback loops are visible and which are invisible
+- What costs are accounted for and what costs are externalized
+- What time horizon is considered relevant
+
+Meadows argues that we consistently draw boundaries that are too narrow
+— that exclude people and places affected by the system who are distant
+in space or time. This systematic exclusion is not just an analytical
+error; it is a moral failure that compounds into injustice and
+unsustainability.
+
+"Expanding the boundary of caring" means deliberately extending our
+circle of concern to include:
+
+- People in distant places who are affected by our actions
+- Future generations who will live with the consequences of current
+  decisions
+- Non-human species and ecological systems that are affected by human
+  activity
+- People currently excluded from power and representation in
+  decision-making processes
+
+## Why Boundaries Matter
+
+The boundaries we draw around systems shape what is visible. When costs
+are externalized beyond the boundary — to downstream communities, to
+future generations, to poorer countries — they do not appear in the
+analysis and do not factor into decisions. The system appears to perform
+well while actually shifting its costs onto those outside the accounting.
+
+This is not hypothetical. Most major environmental and social problems
+involve the systematic externalization of costs beyond the boundary of
+caring:
+
+- **Climate change** involves emitting greenhouse gases in the present
+  while the costs fall on future generations and on poorer countries
+  that have contributed little to the problem
+
+- **Pollution** in one community often flows to others — downstream,
+  downwind — who bear the health costs without having participated in
+  the decision to pollute
+
+- **Global supply chains** can rely on labor practices, environmental
+  conditions, and safety standards that would not be acceptable in the
+  purchasing country — externalizing these conditions beyond the boundary
+  of visibility
+
+- **Deforestation** may increase short-run profits for landowners while
+  degrading water supplies, biodiversity, and climate regulation for
+  distant and future populations
+
+## Boundaries as Choices
+
+It is important to recognize that system boundaries are **choices**, not
+fixed features of reality. The choice to include or exclude a variable
+from a model, to count or not count a cost, to represent or not represent
+a stakeholder — these are choices with moral implications.
+
+Economic analyses that ignore non-market ecosystem services are not
+objective — they encode a choice about what matters. Health impact
+assessments that consider only direct health effects of a policy, not
+indirect effects on social determinants, are not comprehensive — they
+encode a choice about scope.
+
+Making boundary choices explicit, and asking who benefits and who is
+harmed by any particular choice of boundaries, is itself a form of
+expanding the boundary of caring.
+
+## Examples
+
+### Environmental justice
+
+Environmental justice research has documented that industrial pollution,
+waste disposal sites, and other environmental burdens are systematically
+located in communities with less political power — communities of color
+and low-income communities. This pattern reflects a boundary choice:
+decision-makers about facility siting drew their boundaries of caring to
+exclude affected communities. Environmental justice movements demand
+that these communities be included in the boundary of analysis and
+decision-making.
+
+### Intergenerational equity
+
+Many major sustainability challenges — climate change, debt, depletion of
+natural capital, decommissioning of nuclear facilities — involve
+transferring costs to future generations. Future people cannot vote,
+cannot lobby, and cannot participate in current decisions. Expanding
+the boundary of caring requires inventing institutional mechanisms to
+represent their interests — constitutional environmental provisions,
+long-term budget rules, sustainability accounting frameworks.
+
+### Animal welfare
+
+Modern industrial agriculture produces enormous quantities of food at
+low cost by excluding the welfare of animals from the boundary of
+analysis. The suffering of confined animals is real, but it is invisible
+in the accounting because animals are outside the boundary of economic
+concern. Expanding the boundary of caring means asking whether that
+exclusion is justified.
+
+### One Health
+
+The **One Health** framework in medicine explicitly expands the boundary
+of health analysis to include human health, animal health, and ecosystem
+health as interconnected. This boundary expansion reflects the recognition
+that human infectious diseases, antibiotic resistance, food safety, and
+climate health risks cannot be understood or managed while restricting
+attention to human health alone.
+
+::: {.callout-note}
+## The Systems Basis of Ethics
+
+Meadows' principle connects systems analysis to ethics. The choice of
+system boundary is not merely an analytical decision — it is an ethical
+one. Drawing boundaries that systematically exclude the interests of
+some people, future generations, or non-human species is a form of
+injustice that systems analysis makes visible.
+
+Systems thinking, at its deepest level, asks us to take seriously the
+effects of our actions on *all* parts of the systems we inhabit —
+including the parts that are far away, weak, and without voice.
+:::
+
+## Practical Application
+
+1. **Ask: Who is outside the current boundary of analysis?** Who bears
+   the costs or consequences of this system's behavior but is not
+   represented in the analysis or decision-making?
+
+2. **Map the externalities.** What costs, risks, or consequences of this
+   system are being borne by people or systems outside the current
+   boundary? What would have to change if they were internalized?
+
+3. **Include future time periods.** What are the consequences of current
+   decisions in 20, 50, or 100 years? Who will bear them? Can they
+   be represented in current decisions?
+
+4. **Expand stakeholder representation.** Who are the affected
+   communities, organizations, and interest groups? Are those who bear
+   costs represented in decision-making processes?
+
+::: {.callout-tip}
+## Key Takeaway
+
+The boundary of analysis is always a choice, and narrow boundaries
+systematically externalize costs onto those without power or voice.
+Expanding the boundary of caring means deliberately including in
+analysis and decision-making all those affected by the system — near
+and far, present and future, human and non-human.
+:::
+
+## Discussion Questions
+
+1. Think of a system you analyze or manage. Who is currently outside the
+   boundary of analysis? What costs or consequences are being
+   externalized onto them?
+
+2. Meadows connects systems analysis to ethics through the concept of
+   boundary choice. Is this connection legitimate — is boundary choice
+   an ethical question — or is it a confusion of analytical and moral
+   categories?
+
+3. What institutional mechanisms could give voice to future generations
+   and distant communities in current decision-making? What would make
+   these mechanisms effective?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

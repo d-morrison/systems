@@ -1,0 +1,192 @@
+---
+title: "12. Expand Time Horizons"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 12-expand-time-slides.html
+  pdf:
+    output-file: 12-expand-time-handout.pdf
+  docx:
+    output-file: 12-expand-time.docx
+---
+
+# Expand Time Horizons
+
+*Principle 12 from @meadows2001*
+
+> In systems, short-term and long-term perspectives often lead to very
+> different conclusions. The short-term fix frequently becomes the
+> long-term problem. Understand what happens across a range of time
+> horizons. Expand the time horizon of analysis and planning.
+
+## The Principle
+
+One of the most pervasive sources of failure in complex systems is
+**short-term thinking**. Many interventions that appear to solve problems
+in the short term either do nothing, displace the problem to later, or
+actively make things worse over longer time horizons.
+
+This happens for structural reasons:
+
+- **Discounting**: We systematically value present outcomes more than
+  future ones. Economic discounting makes long-run costs and benefits
+  worth less than current ones.
+
+- **Visibility**: Short-term effects are observable; long-term effects
+  are uncertain and abstract. We attend to what we can see.
+
+- **Accountability horizons**: Politicians face re-election cycles;
+  executives face quarterly earnings reports; employees face annual
+  performance reviews. Decision-makers are accountable for short-run
+  outcomes, not long-run ones.
+
+- **Delays**: Complex systems often have long lags between cause and
+  effect. The consequences of today's decisions may not manifest for
+  years or decades, making them easy to ignore.
+
+Expanding time horizons means deliberately considering the long-run
+dynamics of systems — not just what happens this year or this quarter,
+but over decades and generations.
+
+## Short-Run Solutions, Long-Run Problems
+
+Meadows identifies a common pattern: the short-run solution is also the
+long-run cause of the problem. Some examples:
+
+- **Antibiotics**: Aggressive use of antibiotics cures infections
+  quickly (short-run success) but drives the evolution of antibiotic-
+  resistant bacteria (long-run catastrophe). The short-run solution
+  undermines the long-run capability.
+
+- **Debt**: Borrowing provides immediate resources (short-run benefit)
+  at the cost of future repayment obligations (long-run constraint).
+  Consistently making short-run decisions about debt without considering
+  long-run dynamics leads to eventual crisis.
+
+- **Vegetation removal**: Clearing trees for agriculture provides
+  immediate agricultural land (short-run benefit) but degrades soils,
+  reduces water retention, and increases flood risk over longer periods
+  (long-run costs).
+
+- **Subsidies for declining industries**: Supporting a declining industry
+  provides short-term employment protection but delays adaptation and
+  makes the eventual adjustment more painful.
+
+## Timescales in Complex Systems
+
+Different parts of complex systems operate on different timescales:
+
+| Element | Typical timescale |
+|---------|------------------|
+| Individual transactions | Minutes to hours |
+| Market prices | Hours to days |
+| Business cycles | 7–10 years |
+| Infrastructure | Decades |
+| Institutions | Decades to centuries |
+| Ecosystems | Years to millennia |
+| Cultural norms | Generations |
+| Geological systems | Millennia |
+
+Effective systems thinking requires matching the time horizon of analysis
+to the timescale of the dynamics being managed. Managing forest health
+requires thinking in decades; managing climate requires thinking in
+centuries.
+
+## Examples
+
+### Climate change and discount rates
+
+Cost-benefit analyses of climate policies often apply discount rates that
+dramatically reduce the weight given to future climate damages. At a 5%
+discount rate, damages 100 years from now are worth less than 1% of their
+face value today. This is not inherently wrong — people do value present
+benefits more than future ones. But it means that the choice of discount
+rate can effectively decide the outcome of the analysis. Recognizing this
+is part of expanding the time horizon: what time horizon is implicit in
+your analysis?
+
+### Infrastructure investment
+
+U.S. infrastructure — bridges, roads, water systems, electrical grids —
+is frequently in poor condition because investment has been deferred for
+decades. The political incentives favor short-run budget savings
+(not spending on maintenance) over long-run outcomes (well-functioning
+infrastructure). The result is that the long-run cost of deferred
+maintenance far exceeds what maintenance would have cost, but the
+costs are paid by future decision-makers, not the ones who made the
+deferral decisions.
+
+### Educational outcomes
+
+Interventions in early childhood produce their largest returns not in
+one year or even in five years, but over decades — through effects on
+educational attainment, adult health, employment, and crime. These
+long-run returns are invisible to a policy process focused on short-run
+program outcomes. Programs are defunded before their effects can be
+observed, and the long-run investment value is lost.
+
+::: {.callout-important}
+## The Danger of "Fix That Fails"
+
+Systems archetypes often describe a pattern Meadows elsewhere calls
+"fixes that fail": short-run fixes that address symptoms but leave (or
+worsen) underlying structures, making the problem recur or intensify.
+
+The fix works in the short run; the problem comes back worse in the long
+run. Expanding time horizons is the cure: ask not just "Does this fix
+work in the short run?" but "What does it do to the system over time?"
+:::
+
+## Practical Application
+
+1. **Explicitly specify your time horizon.** For any analysis or
+   decision, ask: What time period am I considering? What dynamics
+   operate on longer timescales that I am ignoring?
+
+2. **Plot behavior over time.** Make behavior-over-time graphs for key
+   variables stretching back decades or centuries if data exist. What
+   patterns are visible at longer timescales?
+
+3. **Model long-run dynamics.** Use simulation or scenario analysis to
+   explore what might happen over a 20-, 50-, or 100-year horizon. The
+   results are uncertain, but the exercise reveals which assumptions
+   drive long-term outcomes.
+
+4. **Ask: Who will pay the long-run cost of this short-run decision?**
+   If it is someone other than the current decision-maker, that is a
+   structural problem.
+
+5. **Consider the timescales of legacy effects.** Carbon dioxide stays
+   in the atmosphere for centuries. Infrastructure lasts for decades.
+   Cultural norms persist for generations. What are the long-lasting
+   consequences of current decisions?
+
+::: {.callout-tip}
+## Key Takeaway
+
+Short-term thinking is one of the primary structural causes of systems
+failures. The short-run fix is often the long-run problem. Effective
+systems thinking requires expanding the time horizon of analysis to
+encompass the timescales on which crucial dynamics operate — even when
+those timescales extend beyond current decision-makers' horizons of
+accountability.
+:::
+
+## Discussion Questions
+
+1. Think of a current policy debate. What time horizons are implicit in
+   the arguments being made? Who benefits from a short-run perspective?
+   Who benefits from a long-run perspective?
+
+2. Meadows argues that short-term thinking is structural — driven by
+   discounting, visibility, and accountability horizons. Can these
+   structural causes be changed? What would it take?
+
+3. When is short-term thinking appropriate? Are there cases where
+   focusing on the long run is itself a mistake?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

@@ -1,0 +1,156 @@
+---
+title: "3. Honor, Respect, and Distribute Information"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 03-honor-information-slides.html
+  pdf:
+    output-file: 03-honor-information-handout.pdf
+  docx:
+    output-file: 03-honor-information.docx
+---
+
+# Honor, Respect, and Distribute Information
+
+*Principle 3 from @meadows2001*
+
+> There is no substitute for accurate, timely, and relevant information.
+> Information is power. Those who keep information to themselves gain
+> power over others in the short term. Spread information for all it's
+> worth.
+
+## The Principle
+
+Information is the nervous system of a complex system. Feedback loops —
+the mechanisms by which systems self-regulate and adapt — work only when
+accurate information flows freely. When information is blocked, delayed,
+distorted, or monopolized, feedback fails, and the system degrades.
+
+Meadows identifies three dimensions of healthy information flows:
+
+- **Accuracy**: Is the information true? Are the measures meaningful?
+- **Timeliness**: Does information reach decision-makers while it can
+  still affect their decisions?
+- **Distribution**: Does information reach those who need it and can act
+  on it?
+
+## Why It Matters
+
+### Delayed information causes oscillation
+
+One of the most common sources of system instability is a **delay in the
+feedback loop**. A decision-maker acts, but the effect of that action
+isn't visible until later — by which time another decision has already
+been made. This produces the classic overshoot-and-oscillation pattern
+seen in:
+
+- Commodity price cycles (farmers plant more → prices fall → farmers
+  plant less → prices rise → repeat)
+- Inventory management (bullwhip effect in supply chains)
+- Building booms and busts (long construction delays cause overbuilding)
+
+### Missing information causes mismanagement
+
+You cannot manage what you cannot see. When important variables are not
+measured, or their measurement is hidden from decision-makers, those
+variables tend to be ignored in decision-making. The result is systematic
+neglect of crucial system properties.
+
+Classic examples:
+
+- Businesses that externalize pollution costs don't measure them and
+  don't include them in pricing — so they over-pollute relative to what
+  would be efficient
+- Healthcare systems that don't track outcome quality (only procedure
+  volume) optimize for volume at the expense of outcomes
+
+### Monopolized information creates power asymmetries
+
+When a subset of actors control information flows, they gain power over
+others. This power is often used in self-serving ways that damage the
+broader system.
+
+## Examples
+
+### Environmental disclosure
+
+The U.S. Toxics Release Inventory (TRI), established in 1986, requires
+large manufacturers to publicly report their releases of toxic chemicals.
+Before TRI, this information was held internally and largely invisible to
+communities and regulators. After TRI, companies began voluntarily
+reducing emissions — not because the law required it, but because public
+disclosure created accountability. Information flow alone changed behavior.
+
+### Informed consent in medicine
+
+The principle of informed consent ensures that patients receive accurate,
+complete information about their diagnosis and treatment options. When
+physicians withheld information (as was common historically, ostensibly to
+avoid causing distress), patients were disempowered and could not
+participate meaningfully in their own care. Information distribution
+enabled patient agency.
+
+### Nutrition labeling
+
+Mandatory nutrition labels on food products created information flows
+that had not existed before. Consumers could compare products in ways
+previously impossible, food companies reformulated products to avoid
+unflattering comparisons, and public health outcomes gradually shifted.
+A simple structural change in information flow changed the dynamics of
+the food system.
+
+::: {.callout-warning}
+## Distorted Information Is Worse than No Information
+
+A feedback loop that carries inaccurate information can be more
+damaging than no feedback at all. Systems optimize toward their measured
+goals; if the measure is wrong, the system will optimize toward the wrong
+thing. This is sometimes called **Goodhart's Law**: "When a measure
+becomes a target, it ceases to be a good measure."
+:::
+
+## Practical Application
+
+1. **Map the information flows** in the system. Who knows what? Who
+   needs to know what? Where are the gaps, delays, or distortions?
+
+2. **Ask: What happens if this information is hidden?** For each key
+   piece of information, consider what decision-makers would do
+   differently if they had it or lacked it.
+
+3. **Design for transparency by default.** Assume information should flow
+   unless there is a specific reason to restrict it (privacy, security).
+   Resist the cultural tendency to hoard information.
+
+4. **Shorten feedback delays.** Find ways to measure consequences sooner.
+   Real-time dashboards, rapid learning cycles, and user feedback
+   systems all shorten the time between action and feedback.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Systems degrade when information is late, missing, or distorted.
+Distributing accurate, timely information widely is one of the most
+powerful — and underutilized — interventions available in complex systems.
+:::
+
+## Discussion Questions
+
+1. Think of a system you are familiar with. What important information is
+   not being measured, shared, or acted upon? What would change if it
+   were?
+
+2. Meadows argues that information is power. Who currently controls key
+   information flows in that system? Who benefits from the current
+   arrangement?
+
+3. What are the limits of "more information"? Can information overload
+   itself become a problem? How would you design an information
+   architecture that provides what decision-makers need without
+   overwhelming them?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
