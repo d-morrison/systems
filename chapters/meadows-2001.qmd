@@ -1,0 +1,232 @@
+---
+title: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: meadows-2001-slides.html
+  pdf:
+    output-file: meadows-2001-handout.pdf
+  docx:
+    output-file: meadows-2001.docx
+bibliography: ../references.bib
+---
+
+# Overview
+
+@meadows2001 is a reflective essay in which Donella Meadows shares
+practical wisdom for working with complex systems. Rather than trying to
+control or predict systems, she argues that we should learn to "dance"
+with them — observing, adapting, and working in harmony with their
+inherent dynamics.
+
+The paper is available at:
+<https://demorrison.ucdavis.edu/files/Meadows_Systems_Thinking_2001.pdf>
+
+# Key Concepts
+
+## What Is a System?
+
+A **system** is a set of elements interconnected in such a way that they
+produce their own pattern of behavior over time. Systems are
+characterized by:
+
+- **Elements**: the visible parts of a system (people, trees, water,
+  money)
+- **Interconnections**: relationships that hold the elements together
+  (flows of information, physical flows, rules)
+- **Function or purpose**: what the system does, often not what it
+  appears to do
+
+## Why Systems Surprise Us
+
+Systems produce behaviors that are counterintuitive. Common reasons we
+fail to understand them:
+
+- We focus on events rather than underlying structure
+- We mistake correlation for causation
+- We ignore time delays between cause and effect
+- We underestimate the role of feedback
+
+## Feedback Loops
+
+A **feedback loop** exists when a change in a stock affects the flows
+into or out of that same stock.
+
+- **Reinforcing (positive) loops**: amplify change (growth or collapse)
+- **Balancing (negative) loops**: resist change, seek a goal or
+  equilibrium
+
+## Stocks and Flows
+
+- A **stock** is any quantity that accumulates or depletes over time
+  (water in a bathtub, population, money in a bank account)
+- A **flow** is the rate of change of a stock (birth rate, spending
+  rate, water flow)
+
+Systems change through their stocks; stocks create inertia and memory.
+
+# Meadows' Guidelines for Dancing with Systems
+
+@meadows2001 offers fourteen practical guidelines for working effectively
+with complex systems.
+
+## 1. Get the Beat of the System
+
+Before trying to change a system, observe it carefully. Let the system
+show you its own rhythms and patterns of behavior. Watch what actually
+happens, not just what you expect to happen.
+
+## 2. Expose Your Mental Models to the Light of Day
+
+We all carry implicit models of how systems work. These models shape our
+decisions, but they are never complete or perfectly accurate. Making them
+explicit — writing them down, drawing causal loop diagrams, sharing them
+with others — allows us to test and improve them.
+
+## 3. Honor, Respect, and Distribute Information
+
+Information is the lifeblood of systems. Timely, accurate, and freely
+distributed information is essential for good decision-making. Hiding,
+distorting, or hoarding information degrades system performance.
+
+## 4. Use Language with Care and Enrich It with Systems Concepts
+
+The words and concepts we use shape how we perceive and interact with
+systems. Introducing precise systems vocabulary (feedback, leverage
+point, resilience, overshoot) improves our ability to understand and
+communicate about complex dynamics.
+
+## 5. Pay Attention to What Is Important, Not Just What Is Quantifiable
+
+Not everything that matters can be easily measured, and not everything
+that can be measured matters. Resist the temptation to manage only what
+you can count, at the expense of what you cannot.
+
+## 6. Make Feedback Policies for Feedback Systems
+
+Policies that work in simple, linear cause-and-effect settings often
+fail in systems with feedback loops and time delays. Design policies that
+adjust in response to system feedback, rather than policies based on
+fixed rules.
+
+::: {.callout-tip}
+A feedback policy contains a feedback loop in its own structure: it
+monitors the current state of the system and adjusts its actions based
+on the gap between the current state and the goal.
+:::
+
+## 7. Go for the Good of the Whole
+
+Optimize for the performance of the whole system, not just for
+individual components. Sub-optimizing parts of a system can harm the
+whole system.
+
+## 8. Listen to the Wisdom of the System
+
+Complex systems, especially living ones, have self-organizing capacities
+built up over long periods of evolution. Respect these capacities. Before
+overriding or restructuring a system, ask what existing mechanisms are
+already keeping the system functioning.
+
+## 9. Locate Responsibility in the System
+
+"Seek not to assign blame; seek to understand." Problematic behavior in
+systems usually arises from the system's structure, not from bad
+intentions of individual actors. Placing responsibility within the system
+means changing the structure so that the people within it are empowered
+and motivated to behave responsibly.
+
+## 10. Stay Humble — Stay a Learner
+
+No one can fully understand a complex system. Our models are always
+simplifications. Treat interventions as experiments, monitor their
+actual effects, and be willing to revise your understanding and your
+actions.
+
+::: {.callout-note}
+This guideline reflects a fundamental epistemological stance: given the
+complexity of systems, certainty is an illusion. Effective systems
+thinking requires intellectual humility.
+:::
+
+## 11. Celebrate Complexity
+
+The richness and diversity of complex systems is a source of resilience
+and creativity. Resist the urge to oversimplify, to reduce everything to
+a single cause or a single metric. Complexity is not a problem to be
+solved but a feature of the world to be appreciated.
+
+## 12. Expand Time Horizons
+
+Short-term thinking is one of the main sources of systems problems. Many
+interventions that appear to solve a problem in the short run make it
+worse in the long run. Effective systems thinking requires lengthening
+the time horizon of both analysis and decision-making.
+
+## 13. Defy the Disciplines
+
+Systems don't respect the boundaries between academic disciplines or
+professional specializations. Effective systems thinking requires drawing
+on knowledge from multiple fields and collaborating across boundaries.
+
+## 14. Expand the Boundary of Caring
+
+The boundaries we draw around systems are always somewhat arbitrary. In
+practice, social and ecological systems are interconnected across space
+and time in ways that extend far beyond the immediate context of any
+decision. Effective systems thinking requires expanding our circle of
+concern to include people and places far removed from our immediate
+context.
+
+# Leverage Points
+
+One of the key insights of systems thinking is that not all
+interventions are equally effective. Some places in a system are more
+influential than others. @meadows2001 discusses **leverage points** —
+places in a system where a small change can produce big shifts.
+
+From least to most effective (in general):
+
+1. Numbers (constants and parameters)
+2. The sizes of buffers relative to their flows
+3. The structure of material flows
+4. The lengths of delays, relative to the rate of system change
+5. The strength of negative feedback loops
+6. The gain around driving positive feedback loops
+7. The structure of information flows
+8. The rules of the system (incentives, punishments, constraints)
+9. The power to change, evolve, or self-organize the system structure
+10. The goals of the system
+11. The mindset or paradigm out of which the system arises
+12. The power to transcend paradigms
+
+::: {.callout-important}
+The most powerful leverage points — paradigms and goals — are the
+hardest to change. The least powerful — numbers — are the ones most
+commonly manipulated.
+:::
+
+# Discussion Questions
+
+1. Think of a system you interact with regularly (a workplace, an
+   ecosystem, a social institution). Can you identify the stocks, flows,
+   and feedback loops in that system?
+
+2. Meadows argues that most people focus on events rather than on the
+   underlying structure of systems. Can you give an example from current
+   events where this mistake is being made?
+
+3. Which of Meadows' fourteen guidelines do you find most challenging to
+   apply? Why?
+
+4. Meadows says that the most powerful leverage points are also the
+   hardest to change. Do you agree? Can you think of examples that
+   support or challenge this claim?
+
+5. How does Meadows' approach to systems differ from more traditional
+   analytical approaches to problem-solving?
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

@@ -1,6 +1,6 @@
-# Contributing to Your Quarto Book
+# Contributing to Systems Thinking Lecture Notes
 
-Thank you for your interest in contributing to this book!
+Thank you for your interest in contributing to these lecture notes!
 
 ## How to contribute
 
