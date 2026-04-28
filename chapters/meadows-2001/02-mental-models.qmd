@@ -1,0 +1,164 @@
+---
+title: "2. Expose Your Mental Models"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 02-mental-models-slides.html
+  pdf:
+    output-file: 02-mental-models-handout.pdf
+  docx:
+    output-file: 02-mental-models.docx
+---
+
+# Expose Your Mental Models to the Light of Day
+
+*Principle 2 from @meadows2001*
+
+> Remember, always, that everything you know, and everything everyone
+> knows, is only a model. Get your model out there where it can be
+> viewed. Invite others to challenge your assumptions and add their own.
+
+## The Principle
+
+Every decision we make is shaped by an implicit model of how the world
+works. These mental models are not neutral descriptions of reality — they
+are selective, simplified representations that highlight some features of
+a system while hiding others.
+
+**Mental models include:**
+
+- Assumptions about causal relationships ("if we lower the price, demand
+  will increase")
+- Beliefs about boundaries ("that's outside our control")
+- Values embedded in what we measure and optimize for
+- Time horizons (how far ahead we think)
+- Assumptions about what stays constant while other things change
+
+Meadows' counsel is to make these implicit models *explicit* — to write
+them down, draw them as diagrams, share them with others, and subject
+them to examination.
+
+## Why It Matters
+
+Hidden mental models are dangerous for several reasons:
+
+- **They can be wrong.** All models are simplifications; some
+  simplifications omit crucial dynamics. An implicit model can't be
+  corrected because no one knows it exists.
+
+- **They vary across people.** When a team makes decisions, each member
+  is likely working from a different mental model. Without making these
+  explicit, disagreements about actions are really disagreements about
+  models — and can't be resolved until the underlying models are visible.
+
+- **They embed values.** Choosing to model a forest as "timber board-feet
+  per acre" rather than as "a living ecosystem" encodes a value judgment
+  in the model itself.
+
+- **They determine what gets optimized.** You can only optimize what you
+  measure, and what you measure reflects your model.
+
+## Tools for Exposing Mental Models
+
+### Causal Loop Diagrams
+
+A **causal loop diagram (CLD)** shows variables connected by arrows
+labeled with the direction of causal influence (positive or negative) and
+the resulting feedback loops. Drawing a CLD forces you to articulate
+assumed causal relationships and makes them visible to others.
+
+Example: A simple CLD for a population system might show:
+
+- Population → (+) → Births → (+) → Population (reinforcing loop)
+- Population → (+) → Deaths → (-) → Population (balancing loop)
+
+### Stock-and-Flow Diagrams
+
+Stock-and-flow diagrams make quantitative assumptions explicit — what are
+the stocks? what flows in and out? what controls the rates?
+
+### Scenario Planning
+
+Scenario planning surfaces assumptions about the future by explicitly
+articulating alternative trajectories. When different people construct
+different scenarios, the differences reveal different mental models.
+
+### Pre-mortems
+
+A **pre-mortem** asks: "Imagine this project has failed. What happened?"
+This surfaces implicit assumptions about what could go wrong — assumptions
+that would otherwise remain unexamined.
+
+## Examples
+
+### Urban traffic planning
+
+Traffic engineers modeled congestion as a problem of insufficient road
+capacity. Their mental model: more roads → less congestion. For decades,
+cities built more roads. But the model was wrong — more roads induced more
+driving (induced demand), and congestion remained. Only when planners
+exposed and questioned the underlying model did alternative approaches
+(congestion pricing, transit investment) become thinkable.
+
+### Corporate strategy
+
+In the 1990s, many technology companies held an implicit mental model that
+internet traffic would grow without limit, justifying enormous
+infrastructure investment. When the model was finally made explicit — and
+challenged — it became clear that the growth assumptions were
+unsupportable, presaging the dot-com bust.
+
+::: {.callout-warning}
+## The Danger of "Everyone Knows"
+
+The most dangerous mental models are those that go unquestioned because
+"everyone knows" they are true. Paradigm-level assumptions are rarely
+articulated and therefore rarely tested. Getting them out into the light
+is uncomfortable — but essential.
+:::
+
+## Practical Application
+
+1. **Draw your model.** Before a meeting about a problem, spend 15
+   minutes sketching a causal diagram of what you think is causing it.
+   Bring it to share.
+
+2. **Articulate your assumptions.** For any policy recommendation, write
+   down the 5–10 key assumptions the policy depends on. Ask: Which of
+   these are most uncertain? Which would change the recommendation if
+   wrong?
+
+3. **Invite disagreement.** When presenting a model, explicitly ask
+   others where they think you are wrong. Treat challenges as gifts, not
+   attacks.
+
+4. **Compare models across stakeholders.** When different groups
+   consistently disagree on what to do, map out their underlying models.
+   Often the disagreement is more about assumptions than about values.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Your mental model of a system is not reality — it is your *theory* of
+reality. Making that theory explicit is the first step toward improving
+it. Shared, visible models are better than private, hidden ones.
+:::
+
+## Discussion Questions
+
+1. Think of a mental model you hold about a system in your field. What
+   key variables does it include? What does it leave out? What would
+   change if you added those variables?
+
+2. Meadows says that mental models "are not maps of reality but maps of
+   what we believe reality to be." What is the difference, and why does
+   it matter?
+
+3. What organizational or cultural forces make it difficult to expose
+   mental models to scrutiny? How might those forces be overcome?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

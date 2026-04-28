@@ -1,0 +1,178 @@
+---
+title: "5. Pay Attention to What Is Important, Not Just What Is Quantifiable"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 05-what-is-important-slides.html
+  pdf:
+    output-file: 05-what-is-important-handout.pdf
+  docx:
+    output-file: 05-what-is-important.docx
+---
+
+# Pay Attention to What Is Important, Not Just What Is Quantifiable
+
+*Principle 5 from @meadows2001*
+
+> Our culture, obsessed with numbers, has given us the idea that what we
+> can measure is more real than what we cannot. Use numbers where they
+> are helpful. Let qual­itative factors inform qualitative understanding.
+> Don't be imprisoned by the temptation to measure only what's
+> measurable.
+
+## The Principle
+
+Modern management and policy are dominated by quantification. Numbers
+seem objective, comparable, and actionable. But systems have important
+properties — resilience, equity, quality, trust, morale, health — that
+resist easy quantification, or whose quantification misses what matters
+most.
+
+Meadows' warning is not anti-quantitative. She is not arguing that
+numbers are bad. She is arguing against the systematic *neglect* of
+important but hard-to-measure dimensions of system performance in
+favor of easy-to-measure proxies.
+
+The problem has a name: **proxy capture**. When we substitute a
+measurable proxy for an important-but-unmeasured outcome, we end up
+optimizing the proxy at the expense of the outcome.
+
+## The Quantifiability Trap
+
+Consider this progression:
+
+1. We care about **learning** (important, hard to measure)
+2. We measure **test scores** as a proxy for learning (measurable)
+3. We optimize for test scores
+4. Test scores improve; learning may or may not improve
+5. We declare success because the measure improved
+
+This pattern recurs in:
+
+- Healthcare: optimizing for procedure rates vs. patient health
+- Criminal justice: optimizing for arrests and convictions vs. public
+  safety
+- Environmental policy: optimizing for compliance paperwork vs. actual
+  ecological health
+- Corporate governance: optimizing for quarterly earnings vs. long-term
+  value
+
+In each case, the system delivers what it is designed to deliver — high
+scores on the chosen metric — but potentially at the expense of what the
+metric was supposed to measure.
+
+## Important System Properties That Resist Quantification
+
+Some crucial properties of systems are genuinely difficult to measure:
+
+- **Resilience**: the capacity of a system to absorb disturbance and
+  reorganize while undergoing change. Resilience is often only visible
+  when it is gone.
+
+- **Trust**: the foundation of social cooperation. Measured poorly (if
+  at all) in real time, but its absence is catastrophic.
+
+- **Legitimacy**: whether institutions are accepted as valid by those
+  subject to them. Difficult to measure; easy to destroy.
+
+- **Ecosystem integrity**: the health of a complex living system may not
+  reveal itself in any single indicator.
+
+- **Well-being**: what people actually care about in life — meaning,
+  relationships, health, autonomy — is systematically under-measured
+  relative to income and consumption.
+
+## Examples
+
+### GDP and well-being
+
+Gross Domestic Product measures the money value of goods and services
+produced. It was designed by its creators (including Simon Kuznets, who
+explicitly warned against this use) to measure economic production — not
+welfare. Yet GDP has become the primary proxy for national well-being
+in most policy discussions. Systems that grow GDP by depleting
+natural capital, increasing inequality, or degrading health may show
+strong "performance" on this metric while actually worsening the things
+people care about.
+
+### Hospital readmission rates
+
+A widely used measure of hospital quality is 30-day readmission rates.
+Hospitals optimize to reduce readmissions. But hospitals in communities
+with strong social support networks and good primary care naturally have
+lower readmissions regardless of hospital quality. The metric punishes
+hospitals serving disadvantaged communities and rewards those in
+affluent ones, potentially inverting the intended signal.
+
+### Student evaluation of teaching
+
+Students rate instructors on standardized scales. Research suggests these
+ratings correlate with entertainment value and grade expectations more
+strongly than with actual learning. Instructors who optimize for ratings
+may give easier grades and more entertaining but less rigorous lectures —
+improving the metric while reducing what the metric was supposed to
+capture.
+
+::: {.callout-important}
+## Goodhart's Law
+
+"When a measure becomes a target, it ceases to be a good measure."
+
+— Attributed to Charles Goodhart (and related to Campbell's Law and
+Goodhart's Observation).
+
+This principle captures a fundamental problem in complex systems: the
+act of measuring and targeting a metric changes the behavior of actors
+in the system in ways that undermine the measure's validity.
+:::
+
+## Practical Application
+
+1. **Ask: Why are we measuring this?** What do we actually care about?
+   What is the measure a proxy for? How well does it capture the thing
+   we care about?
+
+2. **Explicitly track the unmeasured.** Identify 2–3 important but
+   hard-to-measure dimensions of system performance. Find qualitative
+   ways to track them — expert judgment, structured observation,
+   narrative reports.
+
+3. **Look for perverse optimization.** Are actors in the system doing
+   things that improve the metrics but degrade the underlying outcomes?
+   This is a warning sign that the metrics have become decoupled from
+   reality.
+
+4. **Beware the "if you can't measure it, you can't manage it"
+   fallacy.** This widely repeated maxim is wrong. You can manage
+   things you can't fully measure — doctors did it before modern
+   diagnostics; parents do it every day. The inability to measure
+   perfectly is not a license to ignore.
+
+::: {.callout-tip}
+## Key Takeaway
+
+The most important properties of a system are often the hardest to
+measure. Managing only what is measurable means systematically
+ignoring whatever resists quantification. Build explicit habits for
+tracking qualitative, hard-to-measure dimensions alongside the
+metrics.
+:::
+
+## Discussion Questions
+
+1. What are the most important unmeasured or poorly measured dimensions
+   of performance in a system you care about? What would it cost to
+   measure them better? What would be gained?
+
+2. Can you identify a case where optimizing a metric has degraded the
+   underlying outcome the metric was supposed to capture?
+
+3. Meadows warns against "being imprisoned by the temptation to measure
+   only what's measurable." In what organizational contexts is this
+   temptation strongest? What drives it?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

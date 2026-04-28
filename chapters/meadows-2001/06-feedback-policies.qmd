@@ -1,0 +1,175 @@
+---
+title: "6. Make Feedback Policies for Feedback Systems"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 06-feedback-policies-slides.html
+  pdf:
+    output-file: 06-feedback-policies-handout.pdf
+  docx:
+    output-file: 06-feedback-policies.docx
+---
+
+# Make Feedback Policies for Feedback Systems
+
+*Principle 6 from @meadows2001*
+
+> Go for policies that change the structure of the system. Let go of
+> trying to control. Aim for policies that enhance feedback, remove
+> delays, and redirect reinforcing loops. Don't just try to
+> control; try to foster the ability of the system to control itself.
+
+## The Principle
+
+Most policies are designed for simple, linear cause-and-effect
+relationships: do X to get Y. These work fine in simple systems where
+causes and effects are tightly coupled, delays are short, and feedback is
+fast. But in complex systems with feedback loops and significant delays,
+static "do X" policies often fail — and sometimes make things worse.
+
+The alternative is to design **feedback policies**: policies that
+*monitor* the state of the system and *adjust* their actions based on
+the gap between the current state and the desired state. A feedback
+policy is adaptive by design; it contains the same kind of balancing
+feedback loop that keeps good systems stable.
+
+## Static vs. Feedback Policies
+
+Consider the difference:
+
+**Static policy (open-loop):**
+"Release 1,000 acre-feet of water from the reservoir on July 1st every
+year."
+
+**Feedback policy (closed-loop):**
+"Release water from the reservoir to maintain downstream flow at 200
+cubic feet per second, adjusting releases as needed based on current
+flow measurements."
+
+The static policy sets a fixed action regardless of conditions. The
+feedback policy sets a *goal* and adjusts actions to maintain the goal.
+Under variable conditions (drought years, flood years), the feedback
+policy produces more consistent outcomes.
+
+## Why Static Policies Fail in Feedback Systems
+
+Static policies fail because they are designed for the expected state of
+the world, not the actual state. When the world deviates from
+expectations:
+
+- **Delays** cause the policy's effects to arrive at the wrong time,
+  potentially amplifying the problem (like a thermostat with a 2-hour
+  delay)
+- **Non-linearities** mean that the same action has different effects at
+  different system states
+- **Feedback loops** mean that the action changes the state of the
+  system, which changes the conditions under which the action operates
+
+Classic examples of static policies that backfire in feedback systems:
+
+- Fixed-rule fisheries quotas that don't respond to actual population
+  levels
+- Fixed interest rate policies that don't respond to current inflation
+- Drug enforcement policies that don't respond to the actual dynamics of
+  drug markets
+
+## Examples
+
+### Thermostat vs. fixed schedule
+
+The simplest feedback policy: a thermostat. Rather than turning the
+heater on for exactly 4 hours per day (static), the thermostat measures
+current temperature, compares it to the desired temperature, and turns
+the heater on or off based on the gap. This adaptive behavior maintains
+the goal (comfortable temperature) across a wide range of conditions.
+
+### Variable-speed limit signs
+
+Traditional speed limits are static rules: "Maximum 65 mph." Variable
+speed limit signs adjust the posted limit based on real-time conditions —
+weather, traffic density, incidents ahead. By responding to actual
+conditions, they improve safety more effectively than fixed rules that
+may be appropriate under normal conditions but not under dangerous ones.
+
+### Adaptive fisheries management
+
+Many modern fisheries management systems use **harvest control rules**
+that define catch limits as a function of current population estimates.
+If the estimated population is above a reference point, higher catches
+are permitted; if below, catches are reduced. The feedback structure
+builds in automatic adjustment without requiring new policy decisions
+for every year's conditions.
+
+::: {.callout-note}
+## Feedback Policies and System Resilience
+
+A system governed by well-designed feedback policies is more resilient
+than one governed by static rules because it can adapt to conditions that
+the policy designers didn't anticipate. Feedback policies effectively
+transfer the task of maintaining system goals from human administrators
+(who must anticipate every possible condition) to the system itself.
+:::
+
+## The Design Challenge
+
+Designing good feedback policies is harder than designing static ones
+because it requires:
+
+1. **Identifying the right metrics to monitor** — What should trigger
+   adjustments? What is the best signal of system state?
+
+2. **Setting appropriate thresholds** — At what values should the policy
+   respond? How much adjustment is appropriate?
+
+3. **Accounting for delays** — How much lag is there between the metric
+   and the actual system state? Between the policy action and its effect?
+
+4. **Testing the policy** — Does the feedback structure produce stability,
+   or does it oscillate or overshoot?
+
+## Practical Application
+
+1. **Ask: Does our policy respond to what actually happens?** Most
+   institutional policies are static rules. Identify which ones would
+   benefit from feedback — from monitoring actual outcomes and adjusting.
+
+2. **Build in monitoring.** A feedback policy is only as good as the
+   information that feeds back into it. Invest in real-time monitoring
+   of key system variables.
+
+3. **Use simulation.** Before deploying a feedback policy in a complex
+   system, simulate its behavior. Feedback policies can produce
+   oscillation or instability if poorly designed.
+
+4. **Start with small adjustments.** When first introducing a feedback
+   policy, make the adjustment gains small. It is easier to tighten a
+   control than to undo the damage from an overly aggressive one.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Complex systems need adaptive, responsive policies — not fixed rules
+applied regardless of circumstances. Design policies that monitor actual
+system state and adjust actions to maintain desired goals, just as a
+thermostat maintains temperature.
+:::
+
+## Discussion Questions
+
+1. Think of a policy in your field that is static (does the same thing
+   regardless of conditions). What feedback could be added to make it
+   more adaptive?
+
+2. Meadows argues that feedback policies are more effective in complex
+   systems. Can you think of cases where a feedback policy might itself
+   cause instability? What design features would prevent this?
+
+3. What political or institutional barriers exist to implementing feedback
+   policies (policies that adjust based on outcomes)? Why do organizations
+   resist building in this kind of adaptability?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

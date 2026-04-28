@@ -1,0 +1,129 @@
+---
+title: "1. Get the Beat of the System"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 01-get-the-beat-slides.html
+  pdf:
+    output-file: 01-get-the-beat-handout.pdf
+  docx:
+    output-file: 01-get-the-beat.docx
+---
+
+# Get the Beat of the System
+
+*Principle 1 from @meadows2001*
+
+> Before you disturb the system in any way, watch how it behaves. If it's
+> a piece of music or a dance, listen to it, feel the beat, get attuned to
+> it, before you interject your own performance.
+
+## The Principle
+
+The first step in working with any complex system is **observation**. Not
+analysis, not intervention — observation. Meadows urges us to watch how a
+system actually behaves over time before we try to change it.
+
+This means:
+
+- Finding or constructing time graphs of relevant variables
+- Learning the history of the system — what has happened, and when
+- Talking with people who have long experience with the system
+- Watching actual behavior, not what you expect or want to see
+
+The discipline here is patience. We are conditioned to act, to solve, to
+fix. But a system will often reveal its own structure and logic to anyone
+willing to observe it carefully over an extended period.
+
+## Why It Matters
+
+Systems have histories and rhythms. A body of water has seasonal cycles.
+A business has boom-and-bust patterns. A public health problem has
+epidemic waves. These rhythms are not random noise — they emerge from the
+system's feedback structure.
+
+If you intervene before you understand the beat, you risk:
+
+- Amplifying oscillations rather than damping them
+- Treating a temporary downswing as a permanent failure
+- Missing the underlying structure that generates the behavior
+- Making the problem worse through a well-intentioned but mistimed action
+
+Understanding the beat means understanding the *behavioral mode* of the
+system: is it growing? oscillating? seeking equilibrium? cycling through
+collapse and recovery?
+
+## Examples
+
+### Stock markets
+
+Many investors intervene in markets based on short-term price signals,
+without understanding the longer rhythms of economic cycles. Those who
+understand longer historical patterns — the 7–10 year business cycle, the
+multi-decade Kondratiev wave — can avoid being misled by short-term
+fluctuations.
+
+### Fisheries management
+
+The collapse of the North Atlantic cod fishery in the 1990s resulted
+partly from managers who did not have (or did not heed) long-run data on
+population dynamics. The system was exhibiting classic signs of overshoot
+and collapse that would have been visible in the data to those who knew
+how to read it.
+
+### Ecological restoration
+
+Ecologists restoring a degraded wetland spend the first seasons simply
+watching — observing which plants establish naturally, which animals
+return, how water flows during heavy rain — before deciding what to plant
+or where to add channels.
+
+## Practical Application
+
+To get the beat of a system you are working with:
+
+1. **Collect historical data** — What metrics are available? How far back
+   do they go? What events do the trends correspond to?
+
+2. **Make time graphs** — Plot variables against time, not just against
+   each other. Behavior-over-time graphs often reveal patterns invisible
+   in cross-sectional snapshots.
+
+3. **Ask long-timers** — People who have been inside a system for decades
+   often carry crucial pattern-recognition knowledge that no database
+   captures.
+
+4. **Watch, don't just measure** — Qualitative observation matters.
+   Visit the places where the system operates. Attend meetings. Read
+   primary documents, not just summaries.
+
+5. **Resist the pressure to act** — Organizations and institutions often
+   reward visible action. Build in time for structured observation before
+   the first intervention.
+
+::: {.callout-tip}
+## Key Takeaway
+
+You cannot dance with a partner whose rhythm you don't know. Before
+acting on a system, learn how it actually behaves over time. Data,
+history, and patient observation are preconditions for effective
+intervention.
+:::
+
+## Discussion Questions
+
+1. Think of a policy intervention that failed. Could inadequate
+   observation of the system's historical behavior have been a
+   contributing cause?
+
+2. In what contexts is it hardest to "get the beat" before acting? What
+   pressures push toward premature intervention?
+
+3. Meadows says to watch "actual behavior, not what you expect." How do
+   our prior expectations shape what we see when we observe a system?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

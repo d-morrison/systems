@@ -1,0 +1,108 @@
+---
+title: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: meadows-2001-slides.html
+  pdf:
+    output-file: meadows-2001-handout.pdf
+  docx:
+    output-file: meadows-2001.docx
+---
+
+# Overview
+
+@meadows2001 is a reflective essay in which Donella Meadows shares
+practical wisdom for working with complex systems. Rather than trying to
+control or predict systems, she argues that we should learn to "dance"
+with them — observing, adapting, and working in harmony with their
+inherent dynamics.
+
+The paper is available at:
+<https://demorrison.ucdavis.edu/files/Meadows_Systems_Thinking_2001.pdf>
+
+# What Is a System?
+
+A **system** is a set of elements interconnected in such a way that they
+produce their own pattern of behavior over time. Systems are
+characterized by:
+
+- **Elements**: the visible parts of a system (people, trees, water,
+  money)
+- **Interconnections**: the relationships that hold the elements together
+  (flows of information, physical flows, rules)
+- **Function or purpose**: what the system does, often not what it
+  appears to do
+
+## Stocks and Flows
+
+- A **stock** is any quantity that accumulates or depletes over time
+  (water in a bathtub, population, money in a bank account)
+- A **flow** is the rate of change of a stock (birth rate, spending
+  rate, water flow)
+
+Systems change through their stocks; stocks create inertia and memory.
+
+## Feedback Loops
+
+A **feedback loop** exists when a change in a stock affects the flows
+into or out of that same stock.
+
+- **Reinforcing (positive) loops**: amplify change (growth or collapse)
+- **Balancing (negative) loops**: resist change, seek a goal or
+  equilibrium
+
+## Why Systems Surprise Us
+
+Systems produce behaviors that are counterintuitive. Common reasons we
+fail to understand them:
+
+- We focus on events rather than underlying structure
+- We mistake correlation for causation
+- We ignore time delays between cause and effect
+- We underestimate the role of feedback
+
+# The Fifteen Principles
+
+@meadows2001 offers fifteen practical principles for working effectively
+with complex systems. Each principle has its own page:
+
+1. [Get the Beat of the System](meadows-2001/01-get-the-beat.qmd) —
+   observe before you act; learn the history and rhythms of the system
+2. [Expose Your Mental Models](meadows-2001/02-mental-models.qmd) —
+   make implicit assumptions explicit and subject them to scrutiny
+3. [Honor, Respect, and Distribute Information](meadows-2001/03-honor-information.qmd) —
+   accurate, timely, freely distributed information is the lifeblood of
+   systems
+4. [Use Language with Care](meadows-2001/04-use-language.qmd) —
+   enrich vocabulary with systems concepts; avoid language that obscures
+   causal structure
+5. [Pay Attention to What Is Important, Not Just What Is Quantifiable](meadows-2001/05-what-is-important.qmd) —
+   resist managing only what you can count
+6. [Make Feedback Policies for Feedback Systems](meadows-2001/06-feedback-policies.qmd) —
+   design adaptive, responsive policies rather than fixed rules
+7. [Go for the Good of the Whole](meadows-2001/07-good-of-whole.qmd) —
+   optimizing subsystems can degrade the whole; keep the system in view
+8. [Listen to the Wisdom of the System](meadows-2001/08-wisdom-of-system.qmd) —
+   respect self-organizing capacities before overriding them
+9. [Locate Responsibility in the System](meadows-2001/09-locate-responsibility.qmd) —
+   design systems so that decision-makers experience the consequences of
+   their choices
+10. [Stay Humble — Stay a Learner](meadows-2001/10-stay-humble.qmd) —
+    treat interventions as experiments; monitor and revise
+11. [Celebrate Complexity](meadows-2001/11-celebrate-complexity.qmd) —
+    diversity and redundancy are sources of resilience, not inefficiency
+12. [Expand Time Horizons](meadows-2001/12-expand-time.qmd) —
+    short-run fixes are often long-run causes; think across timescales
+13. [Defy the Disciplines](meadows-2001/13-defy-discipline.qmd) —
+    complex systems cross disciplinary boundaries; so must analysis
+14. [Expand the Boundary of Caring](meadows-2001/14-expand-caring.qmd) —
+    include distant and future people affected by the system
+15. [Don't Erode the Goal of Goodness](meadows-2001/15-goal-of-goodness.qmd) —
+    hold fast to genuine goals; resist the drift toward what is merely
+    achievable
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

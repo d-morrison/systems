@@ -1,0 +1,183 @@
+---
+title: "10. Stay Humble — Stay a Learner"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 10-stay-humble-slides.html
+  pdf:
+    output-file: 10-stay-humble-handout.pdf
+  docx:
+    output-file: 10-stay-humble.docx
+---
+
+# Stay Humble — Stay a Learner
+
+*Principle 10 from @meadows2001*
+
+> If you are in a position to influence a system, always remember that
+> it is far more complex than you think. Approach it with humility and
+> constant curiosity. The system will teach you, if you are willing to
+> learn.
+
+## The Principle
+
+Complex systems consistently produce surprises — not because we are
+intellectually deficient, but because they are genuinely more complex
+than any model of them can capture. No matter how sophisticated our
+analysis, our model of a complex system will be incomplete, and that
+incompleteness will manifest in unexpected ways.
+
+The appropriate response to this irreducible complexity is not paralysis
+or despair — it is **humility** and the commitment to **ongoing
+learning**.
+
+Humility here means:
+
+- Accepting that your current understanding is incomplete and will be
+  wrong in ways you cannot fully anticipate
+- Treating your model as a working hypothesis, not settled truth
+- Actively seeking to be surprised, because surprises are information
+  about where your model is wrong
+- Being willing to revise your understanding — and your actions — in
+  response to evidence
+
+Staying a learner means:
+
+- Designing interventions as experiments, not solutions
+- Monitoring actual outcomes with the same rigor as predicted outcomes
+- Building feedback mechanisms that allow the system's behavior to
+  update your understanding
+- Maintaining curiosity rather than defaulting to certainty
+
+## Why Humility Is Hard
+
+Several forces push against intellectual humility in the face of complex
+systems:
+
+### Institutional pressure for confidence
+
+Organizations, funders, and stakeholders typically reward confident
+predictions and definitive plans. Acknowledging uncertainty is often
+read as incompetence rather than appropriate epistemic caution. This
+creates institutional pressure to feign more certainty than the evidence
+warrants.
+
+### Sunk cost dynamics
+
+Once committed to a policy or intervention, the costs of acknowledging
+failure are high — reputationally, financially, and politically. Systems
+thinkers must be willing to face these costs and revise their approach
+when evidence demands it.
+
+### Complexity as an excuse
+
+"It's complex" can be used as a reason not to think carefully, not to
+measure outcomes, or not to be accountable for results. The humility
+Meadows advocates is the opposite: it requires *more* careful monitoring
+and learning, not less.
+
+## Examples
+
+### Adaptive management in conservation
+
+**Adaptive management** is a structured approach to natural resource
+management that explicitly treats management actions as experiments.
+Rather than assuming a plan is correct and implementing it with fidelity,
+adaptive management:
+
+1. Makes predictions explicit before acting
+2. Monitors actual outcomes against predictions
+3. Compares actual and predicted outcomes to update understanding
+4. Revises future management based on what was learned
+
+This approach acknowledges that our models of complex ecosystems are
+incomplete, and that the only way to improve them is through carefully
+monitored real-world experiments.
+
+### The Garbage Can model of organizations
+
+Research on organizational decision-making shows that organizations
+frequently do not know what they want until they see what they can get,
+that the connection between action and outcome is often poorly
+understood, and that decisions are often made by whoever happens to be
+present. Effective organizational leadership requires humility about
+these realities and design that enables ongoing learning rather than
+assuming pre-existing knowledge is sufficient.
+
+### Public health surveillance
+
+Effective public health systems treat disease dynamics as complex
+adaptive systems requiring continuous surveillance and learning.
+Successful responses to emerging infectious diseases — whether HIV,
+SARS, or COVID-19 — required rapid updating of models and policies in
+response to new evidence, often in real time. Public health systems that
+assumed they already understood the dynamics performed worse than those
+that remained in a learning stance.
+
+::: {.callout-note}
+## Scientific Humility vs. Decision Paralysis
+
+Intellectual humility does not mean refusing to act in the absence of
+certainty. Decisions must often be made under uncertainty. Humility
+means:
+
+1. Being honest about the degree of uncertainty
+2. Designing decisions to be reversible where possible
+3. Monitoring outcomes to reduce uncertainty over time
+4. Being willing to revise decisions when evidence warrants
+
+The goal is "act, monitor, learn, revise" — not "wait until certain."
+:::
+
+## The Learning Stance
+
+Staying a learner requires specific practices:
+
+1. **State your predictions.** Before acting, write down what you expect
+   to happen. This makes learning from outcomes possible.
+
+2. **Monitor outcomes systematically.** Casual observation after the fact
+   is unreliable. Design monitoring systems that provide honest feedback
+   on whether the intervention is working.
+
+3. **Review regularly.** Build in structured time to review what has been
+   learned and how understanding has changed.
+
+4. **Reward learning from failure.** The biggest obstacle to a learning
+   stance is the cultural equation of failure with incompetence.
+   Organizations that treat failure as information — rather than as
+   evidence of bad character — are far more effective learners.
+
+5. **Seek out disconfirmation.** Actively look for evidence that you are
+   wrong. Confirmation bias is strong; deliberate disconfirmation is
+   required to overcome it.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Complex systems will always exceed the capacity of any model to
+represent them fully. The only sustainable response is intellectual
+humility — treating interventions as experiments, monitoring outcomes
+honestly, and remaining willing to learn and revise. Certainty is a
+luxury complex systems cannot afford.
+:::
+
+## Discussion Questions
+
+1. Think of an intervention (policy, organizational change, personal
+   decision) that produced unexpected outcomes. What did it teach you?
+   How did it change your model?
+
+2. Meadows identifies institutional pressure for confidence as a barrier
+   to humility. How can organizations create space for honest
+   acknowledgment of uncertainty without undermining effectiveness?
+
+3. What is the difference between intellectual humility and
+   decision-making paralysis? How do effective leaders maintain the
+   former without falling into the latter?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

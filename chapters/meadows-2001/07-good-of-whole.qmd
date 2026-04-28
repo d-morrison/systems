@@ -1,0 +1,168 @@
+---
+title: "7. Go for the Good of the Whole"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 07-good-of-whole-slides.html
+  pdf:
+    output-file: 07-good-of-whole-handout.pdf
+  docx:
+    output-file: 07-good-of-whole.docx
+---
+
+# Go for the Good of the Whole
+
+*Principle 7 from @meadows2001*
+
+> Don't optimize the performance of a subsystem at the expense of the
+> system as a whole. When parts of a system are optimized independently,
+> the whole system often behaves worse — not better.
+
+## The Principle
+
+Complex systems are composed of subsystems. Each subsystem has its own
+goals, metrics, and actors working to improve its performance. The
+problem is that what is best for a subsystem is often *not* what is best
+for the system as a whole. Improving the performance of parts can degrade
+the performance of the whole.
+
+This is the problem of **sub-optimization**: local optimization that
+undermines global performance.
+
+The principle "go for the good of the whole" is an injunction to keep the
+welfare of the entire system in view, even when — especially when —
+optimizing any individual part is tempting, easy to measure, and
+organizationally rewarded.
+
+## Why Sub-optimization Happens
+
+Sub-optimization is not the result of bad intentions. It arises from
+**structural features** of organizations and systems:
+
+- **Fragmented goals**: Each department has its own performance metrics.
+  No one is responsible for measuring (or optimizing) the whole.
+
+- **Information boundaries**: Each subsystem has good information about
+  its own performance but limited information about how its actions
+  affect other parts of the system.
+
+- **Incentive misalignment**: Actors are rewarded for their subsystem's
+  performance, not for systemic welfare. An individual who improves
+  their own metrics at the expense of others is rewarded.
+
+- **Temporal misalignment**: Sub-optimal actions may produce short-term
+  benefits for a subsystem while generating long-term costs for the
+  whole.
+
+## The Tragedy of the Commons
+
+The most famous example of sub-optimization is **the tragedy of the
+commons**: each individual herder rationally maximizes their own benefit
+by grazing as many cattle as possible on a shared commons, but the
+aggregate of these individually rational decisions leads to overgrazing
+and collapse of the commons on which all depend.
+
+Every actor is optimizing their subsystem (their own herd). The system
+(the commons) degrades because no one is responsible for optimizing it.
+The welfare of each subsystem, over time, runs counter to the welfare
+of the system as a whole.
+
+This pattern recurs everywhere:
+
+- **Corporate externalities**: Each firm minimizes its own costs by
+  externalizing pollution, noise, and risk onto the broader community.
+  The aggregate of individually rational decisions produces a degraded
+  environment.
+
+- **Supply chain optimization**: Each firm in a supply chain optimizes
+  its own inventory levels, inadvertently generating the "bullwhip
+  effect" — amplifying demand variability up the chain and causing
+  system-wide inefficiency.
+
+- **Academic disciplines**: Each discipline optimizes its own methods,
+  metrics, and boundaries, producing a fragmented knowledge system that
+  struggles to address problems that cross disciplinary lines.
+
+## Examples
+
+### Hospital system optimization
+
+A hospital may optimize its throughput metric (average length of stay)
+by discharging patients quickly. But if those patients are discharged to
+inadequate community support, they are readmitted — increasing total
+system cost. The hospital's subsystem optimum is not the healthcare
+system's optimum.
+
+### Urban traffic management
+
+Optimizing traffic signal timing for vehicle throughput on major
+arterials can increase pedestrian crossing times, reduce pedestrian
+safety, and push traffic into residential streets. The arterial
+"subsystem" improves while the overall urban mobility system degrades.
+
+### Financial market structure
+
+Individual financial firms optimize their own risk-adjusted returns,
+but correlated risk-taking by many firms simultaneously can produce
+systemic risk that harms the entire financial system — and the broader
+economy. The 2008 financial crisis was partly a story of subsystem
+optimization producing catastrophic system-level failure.
+
+::: {.callout-warning}
+## The "Race to the Bottom"
+
+When multiple actors in a competitive system each reduce standards
+(labor protections, environmental regulations, tax rates) to attract
+economic activity, the aggregate result is a "race to the bottom" where
+all standards fall below what any actor would prefer, but no one can
+unilaterally stop. Each actor is optimizing their subsystem; the whole
+system degrades.
+:::
+
+## Practical Application
+
+1. **Define system-level metrics.** What does good performance look like
+   for the whole system? Are you actually measuring it, or only measuring
+   subsystem performance?
+
+2. **Trace the cross-boundary effects** of your actions. When your
+   department, firm, or team "optimizes," what happens to adjacent
+   systems?
+
+3. **Align incentives with systemic goals.** If individuals are rewarded
+   only for subsystem performance, they will optimize subsystems. Can
+   incentives be redesigned to reward contributions to system-wide
+   performance?
+
+4. **Create systemic governance.** Someone needs to be responsible for
+   the whole. When systems lack actors who are accountable for system-
+   level outcomes, sub-optimization dominates.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Optimizing the parts does not optimize the whole. Complex systems
+require actors who monitor and prioritize the welfare of the entire
+system, not just their own subsystem. Build in accountability for
+systemic outcomes, not just component metrics.
+:::
+
+## Discussion Questions
+
+1. Think of an organization or system you are familiar with. Where does
+   sub-optimization occur? What structural features produce it?
+
+2. Meadows writes that "the welfare of a subsystem, over time, will run
+   counter to the welfare of the system as a whole." Is this always true?
+   Can you think of systems where optimizing subsystems also optimizes
+   the whole?
+
+3. What institutional mechanisms are most effective at preventing
+   sub-optimization in complex systems? Are there cases where these
+   mechanisms themselves create problems?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::

@@ -1,0 +1,188 @@
+---
+title: "9. Locate Responsibility in the System"
+subtitle: "Meadows (2001): Dancing with Systems"
+format:
+  html: default
+  revealjs:
+    output-file: 09-locate-responsibility-slides.html
+  pdf:
+    output-file: 09-locate-responsibility-handout.pdf
+  docx:
+    output-file: 09-locate-responsibility.docx
+---
+
+# Locate Responsibility in the System
+
+*Principle 9 from @meadows2001*
+
+> Seek not to assign blame; seek to understand. The system itself is often
+> the source of behavior. Locate responsibility in the system. Design
+> systems that allow people to experience the consequences of their own
+> decisions.
+
+## The Principle
+
+When systems produce bad outcomes, the instinct is to find someone to
+blame. This instinct is understandable, but it often misses the point.
+Most problematic behavior in complex systems arises not from the bad
+intentions of individual actors but from the *structure of the system*
+they operate in — the incentives, feedback loops, information flows, and
+constraints that shape their choices.
+
+This is not the same as saying no one is responsible. It means that
+lasting improvement usually requires changing the system structure, not
+just changing the people or increasing enforcement against current
+actors.
+
+The complementary insight is that **responsibility should be located
+where it is actionable**: people should experience the consequences of
+their own decisions. When decision-makers are insulated from the effects
+of their choices — when they can externalize costs onto others or shift
+risks to future periods — they lack the feedback that would guide
+responsible behavior.
+
+## System Structure Drives Behavior
+
+This principle reflects one of the deepest insights of systems thinking:
+the same system structure will produce the same behaviors from different
+actors over time. Replace the actors without changing the structure and
+you will get the same behaviors again.
+
+Evidence for this claim:
+
+- **Corruption** tends to persist in governments and organizations
+  because it is embedded in structural incentives (weak oversight, low
+  salaries, strong discretionary power) rather than being the property
+  of particular individuals
+
+- **Pollution** tends to persist as long as it is cheaper for producers
+  to externalize costs than to internalize them, regardless of who
+  owns the polluting facilities
+
+- **Recidivism** in criminal justice tends to persist as long as
+  reintegration pathways are structurally absent, regardless of the
+  specific individuals involved
+
+In each case, the structural explanation is more accurate — and more
+useful — than the individual blame explanation.
+
+## Making Responsibility Actionable
+
+The second part of this principle is constructive: design systems so that
+decision-makers *experience the consequences of their choices*. This
+creates a feedback loop that supports responsible behavior without
+requiring external enforcement.
+
+This is the logic behind:
+
+- **Extended producer responsibility**: requiring manufacturers to take
+  back and manage products at end of life, so they face the disposal
+  costs their design decisions create
+
+- **Polluter pays principles**: requiring those who generate pollution
+  to bear its costs, rather than externalizing them to affected
+  communities
+
+- **Community lending regulations**: requiring lenders to operate in the
+  communities where they take deposits, so they face the consequences
+  of lending decisions for those communities
+
+- **Elected officials residing in affected communities**: those who make
+  decisions about environmental standards, infrastructure, or public
+  safety experience their consequences directly
+
+## Examples
+
+### The savings and loan crisis
+
+The U.S. savings and loan crisis of the 1980s was partly caused by
+deregulation that allowed savings institutions to make risky investments
+while federal deposit insurance protected depositors (and, effectively,
+the institutions themselves) from the consequences. Decision-makers could
+take risks whose costs were borne by others. Changing the people running
+the institutions would not have solved the problem; changing the
+structural incentives was required.
+
+### Carbon pricing
+
+Carbon pricing (whether cap-and-trade or carbon taxes) works by locating
+the cost of carbon emissions in the decisions of those who emit. Without
+pricing, emitters externalize costs to those who experience climate
+change. With pricing, the feedback loop closes: emitters bear costs
+proportional to their emissions and have ongoing incentive to reduce them.
+
+### Informed consent and medical liability
+
+Medical malpractice liability systems are designed (imperfectly) to
+locate responsibility for medical outcomes in the clinical decision-making
+process. Informed consent requirements give patients feedback and agency
+in medical decisions. Both mechanisms attempt to make decision-makers —
+whether physicians or patients — face the consequences of the decisions
+they make.
+
+::: {.callout-warning}
+## Blame vs. Accountability
+
+"Locate responsibility in the system" is not a counsel of absolution.
+It does not mean that individuals who commit harmful acts should escape
+accountability. It means:
+
+1. Accountability should focus on changing the system structure, not just
+   punishing individuals
+2. Systems should be designed so that harmful behaviors are unprofitable
+   or impossible, not merely illegal
+3. Decision-makers should experience the consequences of their choices
+   through system-level feedback, not just through after-the-fact
+   enforcement
+:::
+
+## Practical Application
+
+1. **When something goes wrong, ask: What system structure produced this
+   outcome?** Before assigning blame, map the incentives, information
+   flows, and constraints that shaped the behavior you observe.
+
+2. **Ask: Who bears the costs of this decision?** If the decision-maker
+   doesn't bear the costs, that is a structural problem. How could the
+   feedback loop be closed?
+
+3. **Design for accountability, not just compliance.** Compliance-based
+   accountability (follow the rules or be punished) is less effective
+   than feedback-based accountability (experience the consequences of
+   your choices). Aim for the latter.
+
+4. **Separate the diagnostic question from the reform question.** You can
+   acknowledge that an individual behaved badly *and* recognize that the
+   structure enabled or encouraged that behavior. Both diagnoses can be
+   true simultaneously.
+
+::: {.callout-tip}
+## Key Takeaway
+
+Bad outcomes in complex systems usually reflect bad system structures,
+not just bad individuals. Sustainable improvement requires changing the
+structural incentives, information flows, and feedback loops — not just
+replacing the people or increasing enforcement. And wherever possible,
+design systems so that those who make decisions experience their
+consequences.
+:::
+
+## Discussion Questions
+
+1. Think of a recurring problem in a system you know. What structural
+   features of that system produce the problem? What would have to change
+   structurally for the behavior to change?
+
+2. Meadows argues for "locating responsibility in the system." Can this
+   principle be misused as a way to avoid holding specific actors
+   accountable? How do you distinguish between structural diagnosis and
+   structural excuse?
+
+3. What mechanisms effectively close the feedback loop between
+   decision-making and consequences? What makes them effective? What
+   makes them difficult to implement?
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
