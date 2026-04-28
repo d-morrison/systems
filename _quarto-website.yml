@@ -28,7 +28,7 @@ website:
         menu:
           - text: "Meadows (2001): Overview"
             href: chapters/meadows-2001.qmd
-          - section: "Meadows (2001): The Fifteen Principles"
+          - divider: true
           - text: "1. Get the Beat of the System"
             href: chapters/meadows-2001/01-get-the-beat.qmd
           - text: "2. Expose Your Mental Models"
